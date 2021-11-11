@@ -1,4 +1,7 @@
 # Synopsys Black Duck - bd_export_spdx22_json.py
+
+PLEASE REFER TO THE NEW MAIN REPO at https://github.com/blackducksoftware/bd_export_spdx22 INSTEAD OF THIS REPO
+
 # OVERVIEW
 
 This script is provided under an OSS license (specified in the LICENSE file) to allow users to export SPDX version 2.2 in JSON format from Black Duck projects.
