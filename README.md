@@ -1,6 +1,6 @@
 # Synopsys Black Duck - bd_export_spdx22_json.py
 
-PLEASE REFER TO THE NEW MAIN REPO at https://github.com/blackducksoftware/bd_export_spdx22 INSTEAD OF THIS REPO
+PLEASE REFER TO THE NEW MAIN REPO at https://github.com/blackducksoftware/bd_export_spdx2.2 INSTEAD OF THIS REPO
 
 # OVERVIEW
 
